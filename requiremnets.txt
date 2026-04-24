@@ -1,3 +1,4 @@
 ploytly
 pandas
-streamlit
+#streamlit
+streamlit_option_menu
